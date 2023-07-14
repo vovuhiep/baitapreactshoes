@@ -1,10 +1,11 @@
 import './App.css';
-import Shoes from './shoes';
+import SeatMovie from './movie';
+// import Shoes from './shoes';
 
 function App() {
   return (
     <div>
-      <Shoes/>
+      <SeatMovie/>
     </div>
   )
 }
