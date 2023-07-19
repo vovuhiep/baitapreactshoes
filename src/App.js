@@ -1,11 +1,14 @@
 import './App.css';
-import SeatMovie from './movie';
+import Index from './form';
+// import Form from './form';
+// import SeatMovie from './movie';
 // import Shoes from './shoes';
 
 function App() {
   return (
     <div>
-      <SeatMovie/>
+      {/* <SeatMovie/> */}
+      <Index/>
     </div>
   )
 }
